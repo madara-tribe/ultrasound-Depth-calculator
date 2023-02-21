@@ -4,7 +4,7 @@ It calculate Depth distance by ultrasound sensor(HC-HR04).
 
 It can calculate more correctly than stereo vision and less burden to device, resulting better performance than stereo vision.
 
-But Ultrasound detect narrow area, while stereo vison detect wide area. How Each should be used depend on what you use for.
+But Ultrasound detect narrow area, while stereo vision detect wide area. How Each should be used depend on what you use for.
 
 ```
 ・Jetson nano
