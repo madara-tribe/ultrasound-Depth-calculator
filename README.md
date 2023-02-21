@@ -6,6 +6,9 @@ It can calcurate more correctly than stereo vision and less burden to device, re
 
 But Ultrasound detect narrow area, while stereo vison detect wide area. How Each should be used depend on what you use for.
 
+<img src="https://user-images.githubusercontent.com/48679574/220256391-767cd446-f9fa-46f0-90c8-d4d592414575.jpg" width="400" height="300"/>
+
+
 ```
 ・Jetson nano
 ・UtraraSound Sensor:HC-SR04
