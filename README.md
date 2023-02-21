@@ -25,4 +25,5 @@ But Ultrasound detect narrow area, while stereo vison detect wide area. How Each
 
 <img src="https://user-images.githubusercontent.com/48679574/220254625-4c9c70ee-aa56-41d0-8701-d36f1c9fa9cc.gif" width="500" height="350"/>
 
-
+# References
+・[超音波距離センサー（HC-SR04）をJetson Nanoで使用してみました](https://dev.classmethod.jp/articles/hc-sr04-width-jetson-nano/)
