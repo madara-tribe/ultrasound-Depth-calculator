@@ -1,8 +1,8 @@
 # 3Ddistance calculator by Ultrasound Sensor (ProtoType)
 
-It calcularate Depth distance by ultrasound sensor(HC-HR04).
+It calculate Depth distance by ultrasound sensor(HC-HR04).
 
-It can calcurate more correctly than stereo vision and less burden to device, resulting better performance than stereo vision.
+It can calculate more correctly than stereo vision and less burden to device, resulting better performance than stereo vision.
 
 But Ultrasound detect narrow area, while stereo vison detect wide area. How Each should be used depend on what you use for.
 
